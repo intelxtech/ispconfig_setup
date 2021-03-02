@@ -1,8 +1,5 @@
-[![Build Status](https://travis-ci.org/servisys/ispconfig_setup.svg?branch=master)](https://travis-ci.org/servisys/ispconfig_setup)
-
 # README #
 
-[![PayPayl donate button](https://www.paypalobjects.com/it_IT/IT/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TB4Q3UJDC5JDJ "Help US support this project using Paypal")
 
 # Newsletter #
 Subscribe to our newsletter to receive information about new version of the script
